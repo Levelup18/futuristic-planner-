@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
+// Make sure this is declared ABOVE App function
 const routine = {
   Sunday: [
     "6:00 AM - Wake up, drink water",
